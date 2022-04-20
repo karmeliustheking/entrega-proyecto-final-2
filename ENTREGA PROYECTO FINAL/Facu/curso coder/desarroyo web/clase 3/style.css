@@ -1,0 +1,25 @@
+/*ESTO ES UN COMENTARIO DE CSS*/
+
+/*SELECTOR{ PROPIEDAD O VALOR; }*/
+
+
+h1{
+color: rgb(238, 11, 11);}
+
+
+p {
+    font-style: unset;
+
+}
+
+
+ul li { text-decoration: underline;
+    
+    
+
+}
+
+
+
+
+
